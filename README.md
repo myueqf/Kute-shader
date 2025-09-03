@@ -1,0 +1,1 @@
+This lightweight Minecraft shader gives your game a gentle dreamy glow without slowing things down It’s perfect for players who want a cozy, soft vibe while keeping smooth gameplay and super friendly on performance ^-^
